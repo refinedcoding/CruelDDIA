@@ -1,6 +1,6 @@
 # 设计数据密集型应用
 - https://vonng.gitbooks.io/ddia-cn/content/
-- CH5 副本 P151 - P158
+- 0916，CH5 副本，P151 - P158
 
 ## 简述
 - 副本复制和成员变更算法：单领导，多领导，和无领导
