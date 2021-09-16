@@ -3,6 +3,7 @@
 - 本群是残酷群的子群，群友必须参加残酷群，群规建立在残酷群规之上；
 - 若违反以下规则，请发金额为群人数2倍的红包，否则请退群；
 - 群友每天至少阅读5页DDIA，并写100字读书笔记，上传至作业库当天作业目录；
+- Designing Data-Intensive Applications / 设计数据密集型应用
 - https://github.com/refinedcoding/CruelDDIA/tree/main/homework/202109/16
 - 群友首次提交作业，需要fork然后发送PullRequest，或者直接把Github ID发给群主
 - 群主会添加Github ID的推送权限，第二次作业需要自行推送到主库
