@@ -13,6 +13,11 @@
 - 二进宫；
 - 如果本群感兴趣，也接受群规，请加群主微信：lucasharkey。谢谢！
 
+## 中文翻译
+- https://github.com/Vonng/ddia
+- https://vonng.github.io/ddia/#/
+- https://vonng.gitbooks.io/ddia-cn/content/
+
 ## 视频
 - 残酷群第一期 - DDIA Chapter 5: Replication II
 - https://www.youtube.com/watch?v=AFsQROxqmVw
